@@ -18,10 +18,10 @@
     <ClCompile Include="실습결과물\가위바위보게임만들기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="실습결과물\C++변환하기.cpp">
+    <ClCompile Include="실습결과물\소스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="실습결과물\소스.cpp">
+    <ClCompile Include="실습결과물\C++로 바꾸기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
