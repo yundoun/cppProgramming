@@ -14,7 +14,7 @@ int main() {
 		cout << "로미오 >>";
 		cin >> a;
 
-		if (a == "EXIT") {
+		if (a == "exit") {
 			cout << "게임을 종료합니다.";
 			break;
 		}
